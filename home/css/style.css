@@ -1,0 +1,22 @@
+header, footer {
+  background-color: #FF0000;
+}
+.navbar-brand {
+ font-size: 18px;
+ font-weight: 600;
+}
+.nav-link, .dropdown-item {
+ font-size: 15px;
+ font-weight: 600;
+ text-transform: uppercase;
+}
+nav li {
+ padding: 0 18px;
+}
+nav li.active, :before {
+ background-color: #;
+ border-radius: 5px;
+}
+.carousel a:hover {
+ background: #ff0000;
+}
